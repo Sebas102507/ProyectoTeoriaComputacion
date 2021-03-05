@@ -1,12 +1,9 @@
-package Interpreter;// Generated from Tokens.g4 by ANTLR 4.9
+package Interpreter;// Generated from gramatica.g4 by ANTLR 4.9
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
-import org.antlr.v4.runtime.Token;
-import org.antlr.v4.runtime.TokenStream;
 import org.antlr.v4.runtime.*;
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;
-import org.antlr.v4.runtime.misc.*;
 
 @SuppressWarnings({"all", "warnings", "unchecked", "unused", "cast"})
 public class TokensLexer extends Lexer {
@@ -95,7 +92,7 @@ public class TokensLexer extends Lexer {
 	}
 
 	@Override
-	public String getGrammarFileName() { return "Tokens.g4"; }
+	public String getGrammarFileName() { return "gramatica.g4"; }
 
 	@Override
 	public String[] getRuleNames() { return ruleNames; }

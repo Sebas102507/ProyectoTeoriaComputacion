@@ -1,4 +1,4 @@
-package Interpreter;// Generated from Tokens.g4 by ANTLR 4.9
+package Interpreter;// Generated from gramatica.g4 by ANTLR 4.9
 import org.antlr.v4.runtime.tree.ParseTreeListener;
 
 /**
